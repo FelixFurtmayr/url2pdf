@@ -1,6 +1,6 @@
 {
   "name": "url2pdf-plus",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "description": "Fetches a URL and converts HTML to PDF files using PhantomJS",
   "author": {
     "name": "Felix Furtmayr"
