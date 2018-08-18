@@ -1,4 +1,8 @@
-#Url2PDF
+# Deprecated! Please use url2pdf3 which uses up to date technology and is mantained!
+Get it here: https://www.npmjs.com/package/url2pdf3
+
+
+# Url2PDF
 ---
 Grab a URL and convert the HTML to PDF using PhantomJS.
 Phantom renders the printing version.
